@@ -33,7 +33,7 @@ formatter.match({
   "location": "Steps.this_is_my_first_dummy_given_step()"
 });
 formatter.result({
-  "duration": 77153324,
+  "duration": 67791243,
   "status": "passed"
 });
 formatter.match({});
